@@ -1,7 +1,7 @@
 package com.hh.entity;
 
 public class User {
-	private String Uid;//用户ID
+	private String Uid;//用户ID111
 	private String Uaccount;//用户账号
 	private String Upassword;//用户密码
 	
